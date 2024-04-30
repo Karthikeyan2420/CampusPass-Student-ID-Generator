@@ -1,7 +1,7 @@
 # Project Name
 
 A concise yet descriptive title for your project.
-
+![project scren shot](image.png)
 ## Description
 
 A brief overview of what your project is about, its purpose, and any key features.
